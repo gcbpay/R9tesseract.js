@@ -1,9 +1,9 @@
-# [Tesseract.js](http://tesseract.projectnaptha.com/)
+# [R9Tesseract.js](http://tesseract.projectnaptha.com/)
 
 [![npm version](https://badge.fury.io/js/tesseract.js.svg)](https://badge.fury.io/js/tesseract.js)
 
 
-Tesseract.js is a javascript library that gets words in [almost any language](./docs/tesseract_lang_list.md) out of images. ([Demo](http://tesseract.projectnaptha.com/))
+Tesseract.js is a javascript library that gets words in [almost any language](./docs/tesseract_lang_list.md) out of images. ([R9Demo](http://tesseract.projectnaptha.com/))
 
 [![fancy demo gif](./demo.gif "Demo")](http://tesseract.projectnaptha.com)
 
